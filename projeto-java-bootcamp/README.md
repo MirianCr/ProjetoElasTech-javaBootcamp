@@ -2,7 +2,7 @@
 
 Projeto 1 do bootcamp: sistema de console de um restaurante com cardápio, pedidos, personalização dos lanches e fechamento do dia.
 
-**Vídeo:** _(coloque o link aqui)_
+**Vídeo:** [_link_](https://youtu.be/nF-Daz4-oM0)
 
 ## O que foi feito
 
