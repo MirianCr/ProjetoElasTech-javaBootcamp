@@ -19,3 +19,5 @@ Projeto 1 do bootcamp: sistema de console de um restaurante com cardápio, pedid
 ## Como rodar
 
 Abra o projeto no IntelliJ e execute a classe `app.Main`. Para rodar os testes, execute `mvn test` ou rode a pasta `src/test/java` pelo IntelliJ.
+
+![ElasTech2026]https://github.com/MirianCr/ProjetoElasTech-javaBootcamp/issues/1
